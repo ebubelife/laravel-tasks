@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ebubetest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C8E0E94B2F24FB196DE9CDAE653879E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCFE5621C4354DE790190E56DF87C492 }}
           package: .
